@@ -1,6 +1,6 @@
 # Implementation Planning Workshop
 
-**Duration:** 120 minutes
+**Duration:** 180 minutes
 
 ## Key Objectives
 - Map out realistic implementation timelines

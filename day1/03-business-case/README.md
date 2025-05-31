@@ -1,6 +1,6 @@
 # Building the Real Business Case
 
-**Duration:** 90 minutes
+**Duration:** 75 minutes
 
 ## Key Objectives
 - Calculate actual ROI including hidden costs

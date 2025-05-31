@@ -1,6 +1,6 @@
 # The Human Side: Change Management
 
-**Duration:** 90 minutes
+**Duration:** 105 minutes
 
 ## Key Objectives
 - Address employee fears and resistance honestly

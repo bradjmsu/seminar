@@ -1,6 +1,6 @@
 # 90-Day Action Planning
 
-**Duration:** 90 minutes
+**Duration:** 75 minutes
 
 ## Key Objectives
 - Convert learning into specific actions

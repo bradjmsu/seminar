@@ -1,6 +1,6 @@
 # AI Implementation Reality Check
 
-**Duration:** 90 minutes
+**Duration:** 30 minutes
 
 ## Key Objectives
 - Cut through vendor hype to understand what AI actually delivers today
