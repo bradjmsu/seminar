@@ -3,6 +3,13 @@
 **Duration:** 90 minutes  
 **Led by Eric with Brad providing business context**
 
+## Session Timeline
+- 0:00-0:05 - Eric's opening: biggest technical disaster story
+- 0:05-0:35 - Part 1: Eric's Technical Truth Bombs
+- 0:35-0:65 - Part 2: Architecture Deep Dive (interactive)
+- 0:65-0:85 - Part 3: Technical Planning Workshop
+- 0:85-0:90 - Framework distribution and closing Q&A
+
 ## Key Objectives
 - Understand actual infrastructure requirements with Eric's expertise
 - Learn integration challenges from someone who's built them

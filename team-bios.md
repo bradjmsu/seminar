@@ -32,7 +32,7 @@
 
 **What Eric Brings to the Summit:**
 - Deep technical expertise
-- Ability to spot vendor BS instantly
+- Ability to validate vendor claims instantly
 - Real-world architecture patterns
 - Plain-English technical translation
 

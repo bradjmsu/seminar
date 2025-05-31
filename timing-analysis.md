@@ -6,7 +6,7 @@
 | Session | Agenda Time | File Says | Actual Duration |
 |---------|-------------|-----------|-----------------|
 | Welcome & Implementation Reality | 9:00-9:30 | 90 min | 30 min |
-| Cutting Through AI BS | 9:30-11:00 | 90 min | 90 min ✓ |
+| AI Reality Check: Separating Fact from Fiction | 9:30-11:00 | 90 min | 90 min ✓ |
 | Building Your Business Case | 11:15-12:30 | 90 min | 75 min |
 | Implementation Workshop | 2:00-5:00 | 120 min | 180 min |
 
@@ -24,7 +24,7 @@
 
 **Morning Block (3.5 hours)**
 - **30 min** - Welcome & Implementation Reality (keep short, high energy)
-- **90 min** - Cutting Through AI BS (this needs full time for demos)
+- **90 min** - AI Reality Check: Separating Fact from Fiction (this needs full time for demos)
 - **15 min** - Break
 - **75 min** - Building Your Business Case (focused, practical)
 

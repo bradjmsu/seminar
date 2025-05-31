@@ -2,6 +2,14 @@
 
 **Duration:** 90 minutes
 
+## Session Timeline
+- 0:00-0:10 - Introduction to peer advisory format and ground rules
+- 0:10-0:20 - Group formation using AI matching tool
+- 0:20-0:30 - Trust-building exercise and confidentiality agreements
+- 0:30-0:70 - Structured problem-solving rounds (10 min per person)
+- 0:70-0:80 - Action commitments and accountability planning
+- 0:80-0:90 - Schedule follow-up meetings and exchange contacts
+
 ## Key Objectives
 - Create ongoing peer support network
 - Share challenges in confidential setting

@@ -1,13 +1,20 @@
-# Cutting Through the AI BS
+# AI Reality Check: Separating Fact from Fiction
 
 **Duration:** 90 minutes  
 **Co-facilitated by Brad and Eric**
+
+## Session Timeline
+- 0:00-0:05 - Session intro and objectives overview
+- 0:05-0:35 - Part 1: Vendor Decoder Ring (Brad leads, Eric comments)
+- 0:35-0:65 - Part 2: Technical Reality Check (Eric leads deep dive)
+- 0:65-0:85 - Part 3: Live Demo Teardown (interactive exercise)
+- 0:85-0:90 - Wrap-up and framework distribution
 
 ## Key Objectives
 - Decode vendor sales pitches with technical understanding
 - Learn which technical questions expose weak solutions
 - Understand real capabilities vs. marketing hype
-- Build your BS detection toolkit with Eric's technical insights
+- Build your reality check framework with Eric's technical insights
 
 ## Session Flow
 
@@ -34,7 +41,7 @@
 - Role-play with Eric as "technical validator"
 
 ## What Participants Will Walk Away With
-- Eric's "Technical BS Detector" checklist
+- Eric's "Technical Reality Check" checklist
 - Questions that make vendors sweat
 - Understanding of real vs. fake AI capabilities
 - Confidence from Eric's technical backing

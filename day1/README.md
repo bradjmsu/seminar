@@ -7,7 +7,7 @@ Get real about what works, what doesn't, and what to do about it.
 ### Welcome & The Implementation Reality (30 min)
 Setting the stage for honest conversation about the challenges we all face.
 
-### Cutting Through the AI BS (90 min)
+### AI Reality Check: Separating Fact from Fiction (90 min)
 - Live demonstrations of actual tools
 - Real costs vs. vendor quotes
 - What's hype vs. what delivers value

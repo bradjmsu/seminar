@@ -5,7 +5,7 @@
 ### Morning Block (9:00 AM - 12:30 PM)
 ```
 9:00 - 9:30   Welcome & Implementation Reality (30 min) - Brad leads
-9:30 - 11:00  Cutting Through AI BS (90 min) - Brad & Eric co-lead
+9:30 - 11:00  AI Reality Check: Separating Fact from Fiction (90 min) - Brad & Eric co-lead
 11:00 - 11:15 Break & Networking (15 min)
 11:15 - 12:30 Building Your Business Case (75 min) - Brad leads
 ```

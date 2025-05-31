@@ -10,7 +10,7 @@
 - The practitioner's paradox
 - Introductions and goal setting
 
-**9:30 - 11:00** - Cutting Through the AI BS
+**9:30 - 11:00** - AI Reality Check: Separating Fact from Fiction
 - What actually works in marketing organizations
 - Live tool demonstrations and real costs
 - Vendor promises vs. reality check

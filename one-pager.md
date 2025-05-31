@@ -26,7 +26,7 @@ You've been tasked with "figuring out AI" for your marketing organization. You'v
 
 #### Who's Leading:
 - **Brad Johnson**: AI implementation veteran who knows the organizational realities
-- **Eric Wiideman**: Technical architect who's built these systems and can spot BS from miles away
+- **Eric Wiideman**: Technical architect who's built these systems and can validate vendor claims instantly
 
 *We're the technical + practical duo you need. Eric ensures it's technically sound. Brad ensures it's organizationally possible.*
 
