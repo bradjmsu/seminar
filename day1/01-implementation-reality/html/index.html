@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Implementation Reality - Session Overview</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@300;400;500;600;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background-color: #fafafa;
+            color: #0a0a0a;
+            padding: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            font-family: 'Crimson Text', serif;
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .session-info {
+            color: #666;
+            margin-bottom: 3rem;
+        }
+        
+        .slides-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        
+        .slide-card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 1.5rem;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.2s;
+        }
+        
+        .slide-card:hover {
+            border-color: #0066cc;
+            box-shadow: 0 4px 12px rgba(0, 102, 204, 0.1);
+            transform: translateY(-2px);
+        }
+        
+        .slide-number {
+            font-size: 0.875rem;
+            color: #0066cc;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        
+        .slide-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+        }
+        
+        .slide-description {
+            font-size: 0.875rem;
+            color: #666;
+            line-height: 1.5;
+        }
+        
+        .navigation {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid #e0e0e0;
+            text-align: center;
+        }
+        
+        .nav-button {
+            display: inline-block;
+            padding: 0.75rem 2rem;
+            background: #0066cc;
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            margin: 0 0.5rem;
+            transition: background 0.2s;
+        }
+        
+        .nav-button:hover {
+            background: #0052a3;
+        }
+        
+        .nav-button.secondary {
+            background: white;
+            color: #0066cc;
+            border: 1px solid #0066cc;
+        }
+        
+        .nav-button.secondary:hover {
+            background: #f0f7ff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Implementation Reality Session</h1>
+    <p class="session-info">Day 1 • 09:00 - 09:30 • 30 minutes</p>
+    
+    <div class="slides-grid">
+        <a href="01-welcome.html" class="slide-card">
+            <div class="slide-number">Slide 1</div>
+            <h2 class="slide-title">Welcome</h2>
+            <p class="slide-description">Introduction to the summit and your instructors</p>
+        </a>
+        
+        <a href="02-practitioner-paradox.html" class="slide-card">
+            <div class="slide-number">Slide 2</div>
+            <h2 class="slide-title">The Practitioner's Paradox</h2>
+            <p class="slide-description">What leadership expects vs. your daily reality</p>
+        </a>
+        
+        <a href="03-why-initiatives-fail.html" class="slide-card">
+            <div class="slide-number">Slide 3</div>
+            <h2 class="slide-title">Why Most AI Initiatives Fail</h2>
+            <p class="slide-description">Common pitfalls and how to avoid them</p>
+        </a>
+        
+        <a href="04-introductions.html" class="slide-card">
+            <div class="slide-number">Slide 4</div>
+            <h2 class="slide-title">Quick Introductions</h2>
+            <p class="slide-description">Interactive participant introductions</p>
+        </a>
+        
+        <a href="05-goals-and-promise.html" class="slide-card">
+            <div class="slide-number">Slide 5</div>
+            <h2 class="slide-title">Goals & Promise</h2>
+            <p class="slide-description">What you'll learn and build over two days</p>
+        </a>
+    </div>
+    
+    <div class="navigation">
+        <a href="../../../agenda.md" class="nav-button secondary">Back to Agenda</a>
+        <a href="01-welcome.html" class="nav-button">Start Session →</a>
+    </div>
+</body>
+</html>

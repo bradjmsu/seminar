@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why Most AI Initiatives Fail - AI Implementation Summit</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@300;400;500;600;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background-color: #fafafa;
+            color: #0a0a0a;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* Header */
+        header {
+            background: white;
+            border-bottom: 1px solid #e0e0e0;
+            padding: 1rem 1.5rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .session-badge {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #0066cc;
+        }
+        
+        /* Main Content */
+        main {
+            flex: 1;
+            padding: 2rem;
+        }
+        
+        .content-container {
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+        
+        .page-title {
+            font-family: 'Crimson Text', serif;
+            font-size: 3rem;
+            font-weight: 400;
+            text-align: center;
+            margin-bottom: 3rem;
+            color: #0a0a0a;
+        }
+        
+        /* Failure Reasons Grid */
+        .failures-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+        
+        .failure-card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .failure-card:hover {
+            border-color: #0066cc;
+            box-shadow: 0 4px 12px rgba(0, 102, 204, 0.1);
+            transform: translateY(-2px);
+        }
+        
+        .failure-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .failure-icon {
+            width: 40px;
+            height: 40px;
+            background: #fff0f0;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.25rem;
+        }
+        
+        .failure-title {
+            font-size: 1.125rem;
+            font-weight: 600;
+            color: #0a0a0a;
+        }
+        
+        .failure-description {
+            font-size: 0.875rem;
+            color: #666;
+            line-height: 1.5;
+            margin-bottom: 1rem;
+        }
+        
+        .failure-stat {
+            display: flex;
+            align-items: baseline;
+            gap: 0.5rem;
+            font-size: 0.875rem;
+            color: #0066cc;
+            font-weight: 500;
+        }
+        
+        .stat-number {
+            font-size: 1.25rem;
+            font-weight: 600;
+        }
+        
+        /* Interactive Poll Section */
+        .poll-section {
+            background: #0066cc10;
+            border: 1px solid #0066cc30;
+            border-radius: 12px;
+            padding: 2.5rem;
+            margin-bottom: 3rem;
+        }
+        
+        .poll-title {
+            font-family: 'Crimson Text', serif;
+            font-size: 1.75rem;
+            text-align: center;
+            margin-bottom: 2rem;
+            color: #0066cc;
+        }
+        
+        .poll-options {
+            display: grid;
+            gap: 1rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .poll-option {
+            background: white;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 1rem 1.5rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .poll-option:hover {
+            border-color: #0066cc;
+            background: #f0f7ff;
+        }
+        
+        .poll-option.selected {
+            border-color: #0066cc;
+            background: #0066cc;
+            color: white;
+        }
+        
+        .poll-percentage {
+            font-weight: 600;
+            opacity: 0.7;
+        }
+        
+        /* Success Formula */
+        .formula-section {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 2.5rem;
+            text-align: center;
+        }
+        
+        .formula-title {
+            font-size: 1.125rem;
+            color: #666;
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+        
+        .formula-content {
+            font-family: 'Crimson Text', serif;
+            font-size: 2rem;
+            color: #0066cc;
+            margin-bottom: 1.5rem;
+        }
+        
+        .formula-note {
+            font-size: 0.9375rem;
+            color: #666;
+            font-style: italic;
+        }
+        
+        /* Footer */
+        footer {
+            background: white;
+            border-top: 1px solid #e0e0e0;
+            padding: 1rem 1.5rem;
+        }
+        
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.875rem;
+            color: #666;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .page-title {
+                font-size: 2rem;
+            }
+            
+            .failures-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .formula-content {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="session-badge">Implementation Reality</div>
+            <div>09:00 - 09:30</div>
+        </div>
+    </header>
+
+    <main>
+        <div class="content-container">
+            <h1 class="page-title">Why Most AI Initiatives Fail</h1>
+            
+            <div class="failures-grid">
+                <div class="failure-card">
+                    <div class="failure-header">
+                        <div class="failure-icon">🎯</div>
+                        <h3 class="failure-title">Starting Too Big</h3>
+                    </div>
+                    <p class="failure-description">
+                        Attempting to "transform everything" instead of proving value with focused pilots
+                    </p>
+                    <div class="failure-stat">
+                        <span class="stat-number">73%</span>
+                        <span>fail due to scope creep</span>
+                    </div>
+                </div>
+                
+                <div class="failure-card">
+                    <div class="failure-header">
+                        <div class="failure-icon">📊</div>
+                        <h3 class="failure-title">Data Not Ready</h3>
+                    </div>
+                    <p class="failure-description">
+                        Discovering data quality issues after vendor contracts are signed
+                    </p>
+                    <div class="failure-stat">
+                        <span class="stat-number">52%</span>
+                        <span>cite data as #1 blocker</span>
+                    </div>
+                </div>
+                
+                <div class="failure-card">
+                    <div class="failure-header">
+                        <div class="failure-icon">👥</div>
+                        <h3 class="failure-title">No Change Management</h3>
+                    </div>
+                    <p class="failure-description">
+                        Treating AI as purely technical when 70% of challenges are organizational
+                    </p>
+                    <div class="failure-stat">
+                        <span class="stat-number">65%</span>
+                        <span>underestimate people factor</span>
+                    </div>
+                </div>
+                
+                <div class="failure-card">
+                    <div class="failure-header">
+                        <div class="failure-icon">💰</div>
+                        <h3 class="failure-title">Unclear ROI</h3>
+                    </div>
+                    <p class="failure-description">
+                        No framework for measuring value beyond "efficiency gains"
+                    </p>
+                    <div class="failure-stat">
+                        <span class="stat-number">81%</span>
+                        <span>can't prove business value</span>
+                    </div>
+                </div>
+                
+                <div class="failure-card">
+                    <div class="failure-header">
+                        <div class="failure-icon">🏢</div>
+                        <h3 class="failure-title">Vendor Lock-in</h3>
+                    </div>
+                    <p class="failure-description">
+                        Believing vendor promises without understanding technical reality
+                    </p>
+                    <div class="failure-stat">
+                        <span class="stat-number">3x</span>
+                        <span>average cost overrun</span>
+                    </div>
+                </div>
+                
+                <div class="failure-card">
+                    <div class="failure-header">
+                        <div class="failure-icon">⚡</div>
+                        <h3 class="failure-title">Moving Too Fast</h3>
+                    </div>
+                    <p class="failure-description">
+                        Skipping foundation building in rush to show quick wins
+                    </p>
+                    <div class="failure-stat">
+                        <span class="stat-number">67%</span>
+                        <span>pilots never scale</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="poll-section">
+                <h2 class="poll-title">Quick Poll: What's Your Biggest Challenge?</h2>
+                <div class="poll-options">
+                    <div class="poll-option" onclick="selectOption(this)">
+                        <span>Getting budget approved</span>
+                        <span class="poll-percentage">28%</span>
+                    </div>
+                    <div class="poll-option" onclick="selectOption(this)">
+                        <span>Data quality and integration</span>
+                        <span class="poll-percentage">41%</span>
+                    </div>
+                    <div class="poll-option" onclick="selectOption(this)">
+                        <span>Team resistance to change</span>
+                        <span class="poll-percentage">22%</span>
+                    </div>
+                    <div class="poll-option" onclick="selectOption(this)">
+                        <span>Choosing the right tools</span>
+                        <span class="poll-percentage">9%</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="formula-section">
+                <h3 class="formula-title">The Success Formula</h3>
+                <p class="formula-content">
+                    Small Wins + Clear ROI + Team Buy-in = Scaled Success
+                </p>
+                <p class="formula-note">
+                    Over the next two days, we'll show you exactly how to achieve each component
+                </p>
+            </div>
+        </div>
+    </main>
+    
+    <footer>
+        <div class="footer-content">
+            <div>AI Implementation Summit • Reykjavík</div>
+            <div>Why Initiatives Fail</div>
+            <div>Slide 3 of 5</div>
+        </div>
+    </footer>
+    
+    <script>
+        function selectOption(element) {
+            document.querySelectorAll('.poll-option').forEach(opt => {
+                opt.classList.remove('selected');
+            });
+            element.classList.add('selected');
+        }
+    </script>
+</body>
+</html>

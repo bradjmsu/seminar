@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick Introductions - AI Implementation Summit</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@300;400;500;600;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background-color: #fafafa;
+            color: #0a0a0a;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* Header */
+        header {
+            background: white;
+            border-bottom: 1px solid #e0e0e0;
+            padding: 1rem 1.5rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .session-badge {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #0066cc;
+        }
+        
+        /* Main Content */
+        main {
+            flex: 1;
+            padding: 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .content-container {
+            max-width: 900px;
+            width: 100%;
+        }
+        
+        /* Introduction Prompt */
+        .intro-section {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        
+        .page-title {
+            font-family: 'Crimson Text', serif;
+            font-size: 3rem;
+            font-weight: 400;
+            margin-bottom: 1.5rem;
+            color: #0a0a0a;
+        }
+        
+        .intro-subtitle {
+            font-size: 1.25rem;
+            color: #666;
+            margin-bottom: 3rem;
+        }
+        
+        /* Introduction Cards */
+        .intro-cards {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+        
+        .intro-card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 2rem;
+            text-align: center;
+        }
+        
+        .intro-number {
+            width: 60px;
+            height: 60px;
+            background: #0066cc;
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin: 0 auto 1.5rem;
+        }
+        
+        .intro-question {
+            font-size: 1.125rem;
+            font-weight: 500;
+            margin-bottom: 0.75rem;
+            color: #0a0a0a;
+        }
+        
+        .intro-example {
+            font-size: 0.875rem;
+            color: #666;
+            font-style: italic;
+        }
+        
+        /* Timer Section */
+        .timer-section {
+            background: #0066cc10;
+            border: 1px solid #0066cc30;
+            border-radius: 12px;
+            padding: 2rem;
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        
+        .timer-label {
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #0066cc;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+        
+        .timer-display {
+            font-family: 'Crimson Text', serif;
+            font-size: 3.5rem;
+            color: #0066cc;
+            font-weight: 400;
+        }
+        
+        /* Participant Grid */
+        .participants-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+            max-height: 300px;
+            overflow-y: auto;
+            padding: 0.5rem;
+        }
+        
+        .participant-tag {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 0.75rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            transition: all 0.2s;
+        }
+        
+        .participant-tag:hover {
+            border-color: #0066cc;
+            box-shadow: 0 2px 8px rgba(0, 102, 204, 0.1);
+        }
+        
+        .participant-avatar {
+            width: 32px;
+            height: 32px;
+            background: linear-gradient(135deg, #0066cc, #0052a3);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.875rem;
+            color: white;
+            font-weight: 500;
+            flex-shrink: 0;
+        }
+        
+        .participant-info {
+            flex: 1;
+            min-width: 0;
+        }
+        
+        .participant-name {
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: #0a0a0a;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        
+        .participant-company {
+            font-size: 0.75rem;
+            color: #666;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        
+        /* Instructions */
+        .instructions {
+            text-align: center;
+            color: #666;
+            font-size: 0.9375rem;
+        }
+        
+        /* Footer */
+        footer {
+            background: white;
+            border-top: 1px solid #e0e0e0;
+            padding: 1rem 1.5rem;
+        }
+        
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.875rem;
+            color: #666;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .intro-cards {
+                grid-template-columns: 1fr;
+            }
+            
+            .page-title {
+                font-size: 2rem;
+            }
+            
+            .timer-display {
+                font-size: 2.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="session-badge">Implementation Reality</div>
+            <div>09:00 - 09:30</div>
+        </div>
+    </header>
+
+    <main>
+        <div class="content-container">
+            <div class="intro-section">
+                <h1 class="page-title">Quick Introductions</h1>
+                <p class="intro-subtitle">60 seconds each - Let's learn who's in the room</p>
+            </div>
+            
+            <div class="intro-cards">
+                <div class="intro-card">
+                    <div class="intro-number">1</div>
+                    <p class="intro-question">Name & Organization</p>
+                    <p class="intro-example">"Sarah from Visa, Marketing Operations"</p>
+                </div>
+                <div class="intro-card">
+                    <div class="intro-number">2</div>
+                    <p class="intro-question">Your AI Challenge</p>
+                    <p class="intro-example">"Scaling our chatbot pilot globally"</p>
+                </div>
+                <div class="intro-card">
+                    <div class="intro-number">3</div>
+                    <p class="intro-question">Current AI Experience</p>
+                    <p class="intro-example">"Running 3 pilots, mixed results"</p>
+                </div>
+                <div class="intro-card">
+                    <div class="intro-number">4</div>
+                    <p class="intro-question">What You Need Most</p>
+                    <p class="intro-example">"Clear ROI framework for board"</p>
+                </div>
+            </div>
+            
+            <div class="timer-section">
+                <p class="timer-label">Time Remaining</p>
+                <p class="timer-display" id="timer">15:00</p>
+            </div>
+            
+            <div class="participants-grid">
+                <div class="participant-tag">
+                    <div class="participant-avatar">SC</div>
+                    <div class="participant-info">
+                        <div class="participant-name">Sarah Chen</div>
+                        <div class="participant-company">Visa</div>
+                    </div>
+                </div>
+                <div class="participant-tag">
+                    <div class="participant-avatar">JM</div>
+                    <div class="participant-info">
+                        <div class="participant-name">John Mitchell</div>
+                        <div class="participant-company">Microsoft</div>
+                    </div>
+                </div>
+                <div class="participant-tag">
+                    <div class="participant-avatar">AK</div>
+                    <div class="participant-info">
+                        <div class="participant-name">Anna Kumar</div>
+                        <div class="participant-company">Stripe</div>
+                    </div>
+                </div>
+                <!-- More participants would be added dynamically -->
+            </div>
+            
+            <p class="instructions">
+                Each person introduces themselves while their name appears on screen
+            </p>
+        </div>
+    </main>
+    
+    <footer>
+        <div class="footer-content">
+            <div>AI Implementation Summit • Reykjavík</div>
+            <div>Quick Introductions</div>
+            <div>Slide 4 of 5</div>
+        </div>
+    </footer>
+    
+    <script>
+        // Simple countdown timer
+        let timeLeft = 900; // 15 minutes in seconds
+        
+        function updateTimer() {
+            const minutes = Math.floor(timeLeft / 60);
+            const seconds = timeLeft % 60;
+            document.getElementById('timer').textContent = 
+                `${minutes}:${seconds.toString().padStart(2, '0')}`;
+            
+            if (timeLeft > 0) {
+                timeLeft--;
+                setTimeout(updateTimer, 1000);
+            }
+        }
+        
+        updateTimer();
+    </script>
+</body>
+</html>

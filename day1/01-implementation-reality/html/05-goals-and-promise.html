@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Goals & Promise - AI Implementation Summit</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@300;400;500;600;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background-color: #fafafa;
+            color: #0a0a0a;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* Header */
+        header {
+            background: white;
+            border-bottom: 1px solid #e0e0e0;
+            padding: 1rem 1.5rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .session-badge {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #0066cc;
+        }
+        
+        /* Main Content */
+        main {
+            flex: 1;
+            padding: 3rem 2rem;
+        }
+        
+        .content-container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        .page-title {
+            font-family: 'Crimson Text', serif;
+            font-size: 3rem;
+            font-weight: 400;
+            text-align: center;
+            margin-bottom: 3rem;
+            color: #0a0a0a;
+        }
+        
+        /* Goals Section */
+        .goals-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 3rem;
+            margin-bottom: 3rem;
+        }
+        
+        .goals-column {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 12px;
+            padding: 2.5rem;
+        }
+        
+        .column-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        
+        .column-icon {
+            width: 48px;
+            height: 48px;
+            background: #0066cc;
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+        }
+        
+        .column-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #0a0a0a;
+        }
+        
+        .goals-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1.25rem;
+        }
+        
+        .goal-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 1rem;
+        }
+        
+        .check-icon {
+            width: 24px;
+            height: 24px;
+            background: #00aa66;
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            margin-top: 0.125rem;
+            font-size: 0.875rem;
+        }
+        
+        .goal-text {
+            font-size: 1rem;
+            line-height: 1.5;
+            color: #444;
+        }
+        
+        /* Promise Section */
+        .promise-section {
+            background: #0066cc10;
+            border: 1px solid #0066cc30;
+            border-radius: 12px;
+            padding: 3rem;
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        
+        .promise-title {
+            font-family: 'Crimson Text', serif;
+            font-size: 2.25rem;
+            color: #0066cc;
+            margin-bottom: 1.5rem;
+        }
+        
+        .promise-text {
+            font-size: 1.125rem;
+            line-height: 1.6;
+            color: #444;
+            max-width: 700px;
+            margin: 0 auto 2rem;
+        }
+        
+        .promise-points {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+            margin-top: 2.5rem;
+        }
+        
+        .promise-point {
+            text-align: center;
+        }
+        
+        .promise-icon {
+            width: 60px;
+            height: 60px;
+            background: white;
+            border: 2px solid #0066cc;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            margin: 0 auto 1rem;
+        }
+        
+        .promise-label {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #0066cc;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        /* CTA Section */
+        .cta-section {
+            text-align: center;
+            padding: 2rem;
+        }
+        
+        .cta-button {
+            background: #0066cc;
+            color: white;
+            border: none;
+            padding: 1rem 3rem;
+            font-size: 1rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background 0.2s;
+            letter-spacing: 0.02em;
+        }
+        
+        .cta-button:hover {
+            background: #0052a3;
+        }
+        
+        /* Footer */
+        footer {
+            background: white;
+            border-top: 1px solid #e0e0e0;
+            padding: 1rem 1.5rem;
+        }
+        
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.875rem;
+            color: #666;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .goals-section {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+            }
+            
+            .promise-points {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+            
+            .page-title {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="session-badge">Implementation Reality</div>
+            <div>09:00 - 09:30</div>
+        </div>
+    </header>
+
+    <main>
+        <div class="content-container">
+            <h1 class="page-title">Goal Setting: What We'll Achieve Together</h1>
+            
+            <div class="goals-section">
+                <div class="goals-column">
+                    <div class="column-header">
+                        <div class="column-icon">📚</div>
+                        <h2 class="column-title">You'll Learn</h2>
+                    </div>
+                    <div class="goals-list">
+                        <div class="goal-item">
+                            <div class="check-icon">✓</div>
+                            <p class="goal-text">ML/DL concepts that matter for marketing (without the PhD)</p>
+                        </div>
+                        <div class="goal-item">
+                            <div class="check-icon">✓</div>
+                            <p class="goal-text">Which tools use real AI vs. dressed-up automation</p>
+                        </div>
+                        <div class="goal-item">
+                            <div class="check-icon">✓</div>
+                            <p class="goal-text">ROI frameworks that finance actually understands</p>
+                        </div>
+                        <div class="goal-item">
+                            <div class="check-icon">✓</div>
+                            <p class="goal-text">Integration patterns that work with your tech stack</p>
+                        </div>
+                        <div class="goal-item">
+                            <div class="check-icon">✓</div>
+                            <p class="goal-text">Change management tactics for skeptical teams</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="goals-column">
+                    <div class="column-header">
+                        <div class="column-icon">🎯</div>
+                        <h2 class="column-title">You'll Build</h2>
+                    </div>
+                    <div class="goals-list">
+                        <div class="goal-item">
+                            <div class="check-icon">✓</div>
+                            <p class="goal-text">Business case for your specific use case</p>
+                        </div>
+                        <div class="goal-item">
+                            <div class="check-icon">✓</div>
+                            <p class="goal-text">90-day implementation roadmap</p>
+                        </div>
+                        <div class="goal-item">
+                            <div class="check-icon">✓</div>
+                            <p class="goal-text">Network of peers facing similar challenges</p>
+                        </div>
+                        <div class="goal-item">
+                            <div class="check-icon">✓</div>
+                            <p class="goal-text">Vendor evaluation criteria</p>
+                        </div>
+                        <div class="goal-item">
+                            <div class="check-icon">✓</div>
+                            <p class="goal-text">Confidence to push back on hype</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="promise-section">
+                <h2 class="promise-title">Our Promise to You</h2>
+                <p class="promise-text">
+                    This isn't another conference where consultants tell you what you already know. 
+                    We've been in your shoes, made the mistakes, and learned what actually works.
+                </p>
+                
+                <div class="promise-points">
+                    <div class="promise-point">
+                        <div class="promise-icon">🚫</div>
+                        <p class="promise-label">No Vendor Pitches</p>
+                    </div>
+                    <div class="promise-point">
+                        <div class="promise-icon">💡</div>
+                        <p class="promise-label">Real Examples</p>
+                    </div>
+                    <div class="promise-point">
+                        <div class="promise-icon">🤝</div>
+                        <p class="promise-label">Peer Learning</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="cta-section">
+                <button class="cta-button">Ready? Let's Start with AI Fluency →</button>
+            </div>
+        </div>
+    </main>
+    
+    <footer>
+        <div class="footer-content">
+            <div>AI Implementation Summit • Reykjavík</div>
+            <div>Goals & Promise</div>
+            <div>Slide 5 of 5</div>
+        </div>
+    </footer>
+</body>
+</html>
