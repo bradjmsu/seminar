@@ -1,30 +1,42 @@
-# AI in Marketing Seminar
+# AI Marketing Mastery Seminar
 
-A comprehensive 2-day seminar exploring the intersection of artificial intelligence and marketing, led by two AI experts.
+A high-impact 2-day seminar designed for senior marketing professionals ready to bridge the gap between AI experimentation and execution.
+
+## The Opportunity
+
+While 78% of organizations use AI in marketing, only 26% generate tangible value. This seminar equips you to join the elite performers seeing:
+- 2,930% increases in leads (Harley-Davidson)
+- 336% return on ad spend (Cosabella)
+- $1 billion in annual savings (Netflix)
 
 ## Instructors
 
-- **Expert 1**: Strategic AI Implementation & Hands-on Tools
-- **Expert 2**: Machine Learning & Technical Deep Dives
+- **Expert 1**: Strategic AI Implementation & Hands-on MarTech Integration
+- **Expert 2**: Machine Learning Applications & Advanced AI Systems
 
-## Overview
+## What You'll Master
 
-This seminar provides both strategic insights and practical skills for leveraging AI in modern marketing practices.
+- **ROI Measurement**: Frameworks to prove and maximize AI value
+- **Scaling Strategies**: Move from pilots to production
+- **Agentic AI**: Implement autonomous marketing systems
+- **Integration**: Connect AI to your existing tech stack
+- **Team Transformation**: Build AI-ready marketing organizations
 
 ## Quick Links
 
-- [Agenda](agenda.md)
-- [Day 1 Materials](day1/)
-- [Day 2 Materials](day2/)
-- [Resources](resources/)
+- [Full Agenda](agenda.md)
+- [Day 1: Foundations & ROI](day1/)
+- [Day 2: Advanced Applications](day2/)
+- [Resources & Tools](resources/)
 
-## Prerequisites
+## Target Audience
 
-Participants should have:
-- Basic understanding of marketing concepts
-- Familiarity with digital marketing tools
-- No prior AI/ML experience required
+- CMOs and VP Marketing
+- Marketing Operations Leaders
+- Digital Marketing Directors
+- MarTech Managers
+- Analytics Leaders
 
-## Contact
+## Investment Model
 
-For questions or additional information, please contact [contact info]
+Learn the 40-30-20-10 framework for strategic AI investment and leave with a personalized 90-day implementation roadmap.
