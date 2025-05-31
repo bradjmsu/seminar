@@ -1,4 +1,5 @@
 # AI Fundamentals for Marketing Leaders
+Duration: 75 minutes
 
 ## Overview
 This foundational session demystifies AI and machine learning concepts for marketing executives, focusing on practical understanding rather than technical complexity. Participants will learn essential terminology, understand how AI systems work at a high level, and grasp key statistical concepts that underpin AI-driven marketing decisions.

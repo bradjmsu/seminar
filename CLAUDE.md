@@ -1,0 +1,3 @@
+- In production, each participant will have a laptop or tablet that is running a next.js based tool controlled by the facilitator. Normally, this tool will just show the slides, but is 100% capable of loading components that provide interactivity and collaboration. There are no limitations to the tool (we can put in AI playgrounds, surveys, group people together [randomly if we want]) other than the limitations of next.js.
+- The seminar is designed to be highly interactive, with a strong focus on encouraging networking and peer-to-peer engagement among attendees.
+- In terms of styling our slides, we want to have a prestige professional look and feel to those slides. We will also not shy away from serif fonts

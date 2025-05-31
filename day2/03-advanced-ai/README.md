@@ -1,4 +1,5 @@
 # Advanced AI: Agentic Systems and Multimodal Applications
+Duration: 60 minutes
 
 ## Overview
 This forward-looking session explores cutting-edge AI technologies that will shape the future of marketing. Participants will understand agentic AI systems that can act autonomously, multimodal AI that processes multiple data types simultaneously, and how these technologies will transform marketing strategies and customer experiences.

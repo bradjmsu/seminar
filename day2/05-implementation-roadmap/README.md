@@ -1,4 +1,5 @@
 # 90-Day AI Implementation Roadmap Workshop
+Duration: 60 minutes
 
 ## Overview
 This culminating workshop synthesizes all seminar learnings into actionable 90-day implementation plans. Participants will create detailed roadmaps for their organizations, complete with quick wins, resource requirements, success metrics, and risk mitigation strategies, ensuring immediate application of seminar concepts.

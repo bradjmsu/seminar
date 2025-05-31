@@ -1,4 +1,5 @@
 # Hands-On AI Implementation Workshop
+Duration: 75 minutes
 
 ## Overview
 This practical workshop transitions from theory to application, guiding participants through their first AI implementation in a marketing context. Using accessible tools and real data, executives will experience the full cycle of an AI project from problem definition through deployment and measurement.

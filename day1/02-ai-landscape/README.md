@@ -1,4 +1,5 @@
 # The Current AI Landscape for Marketing
+Duration: 90 minutes
 
 ## Overview
 This session provides a comprehensive overview of today's AI marketing tools and platforms, helping executives distinguish between proven solutions and emerging technologies. Participants will develop frameworks for evaluating AI vendors and understanding which capabilities deliver real value versus those that are still experimental.

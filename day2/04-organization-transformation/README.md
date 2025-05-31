@@ -1,4 +1,5 @@
 # Organization Transformation: Teams, Privacy, and Ethics
+Duration: 60 minutes
 
 ## Overview
 This session addresses the human and ethical dimensions of AI adoption in marketing organizations. Participants will learn how to build AI-ready teams, implement privacy-preserving practices, and establish ethical frameworks that ensure responsible AI use while maintaining competitive advantage.

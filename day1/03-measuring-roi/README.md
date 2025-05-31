@@ -1,4 +1,5 @@
 # Measuring AI ROI in Marketing
+Duration: 90 minutes
 
 ## Overview
 Building on the AI fundamentals, this session focuses on quantifying the business value of AI investments in marketing. Participants will learn frameworks for calculating ROI, establishing KPIs, and creating business cases that resonate with C-suite stakeholders while accounting for both direct and indirect benefits of AI implementation.

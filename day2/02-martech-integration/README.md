@@ -1,4 +1,5 @@
 # MarTech Stack Integration Strategies
+Duration: 90 minutes
 
 ## Overview
 This technical session focuses on integrating AI capabilities into existing marketing technology ecosystems. Participants will learn practical approaches for connecting AI tools with current platforms, managing data flows, and creating unified customer experiences across AI-powered and traditional marketing systems.

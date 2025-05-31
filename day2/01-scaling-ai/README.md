@@ -1,4 +1,5 @@
 # Scaling AI: From Pilots to Production
+Duration: 75 minutes
 
 ## Overview
 This session addresses the critical challenge of moving beyond successful AI pilots to enterprise-wide deployment. Participants will learn strategies for scaling AI initiatives, overcoming organizational barriers, and building the infrastructure necessary for sustainable AI operations in marketing.
