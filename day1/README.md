@@ -1,30 +1,36 @@
-# Day 1: Foundations & ROI-Driven Implementation
+# Day 1: Foundations to Value Creation
 
-Materials for Day 1 focusing on practical implementation and measurable results.
+Building a solid foundation before diving into advanced applications.
 
-## Sessions
+## Morning: Understanding the Technology
 
-1. [The $1 Billion Question: Measuring and Maximizing AI ROI](01-measuring-roi.md)
-   - Attribution models and comprehensive KPI frameworks
-   - Case studies: Netflix ($1B savings), Harley-Davidson (2,930% lead increase)
+1. [AI/ML Fundamentals for Marketers](01-ai-fundamentals.md)
+   - Demystifying machine learning concepts
+   - Essential statistics: regression, classification, clustering
+   - Understanding what AI can and cannot do
    
-2. [Breaking Through Pilot Purgatory: Scaling AI to Production](02-scaling-ai.md)
-   - McKinsey's 4-phase implementation methodology
-   - Overcoming the 70% people/process challenges
-   
-3. [Integration Without Tears: Connecting AI to Your MarTech Stack](03-martech-integration.md)
-   - Composable architecture strategies
-   - API integration workshops with real platforms
-   
-4. [Privacy-First Personalization: Thriving Post-Cookie](04-privacy-personalization.md)
-   - Building robust first-party data strategies
-   - Achieving 48:1 ROI while maintaining compliance
+2. [The Marketing AI Landscape](02-ai-landscape.md)
+   - Separating reality from hype
+   - Current tool categories and capabilities
+   - Live demonstrations of leading platforms
 
-## Key Takeaways
+## Afternoon: From Understanding to Value
 
-By the end of Day 1, participants will have:
-- ROI measurement frameworks ready to implement
-- Clear roadmap for scaling successful pilots
-- Technical knowledge for MarTech integration
-- Privacy-compliant personalization strategies
-- Hands-on experience with leading AI marketing platforms
+3. [Measuring and Maximizing AI ROI](03-measuring-roi.md)
+   - Building on fundamentals to create measurement frameworks
+   - Case studies: Netflix ($1B savings), Harley-Davidson (2,930% leads)
+   - Attribution models and KPI development
+   
+4. [Hands-On Workshop](04-hands-on-basics.md)
+   - Your first AI marketing implementation
+   - Understanding outputs, limitations, and possibilities
+   - Practical experience with real tools
+
+## Progressive Learning Path
+
+Day 1 is designed to:
+- Start with core concepts (no assumed AI knowledge)
+- Build understanding through real examples
+- Connect theory to practical value measurement
+- Provide hands-on experience to solidify learning
+- Prepare participants for Day 2's advanced topics

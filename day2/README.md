@@ -1,34 +1,41 @@
-# Day 2: Advanced Applications & Strategic Transformation
+# Day 2: Scaling & Advanced Applications
 
-Materials for Day 2 focusing on cutting-edge AI applications and organizational transformation.
+Building on Day 1 foundations to tackle enterprise-scale implementation.
 
-## Sessions
+## Morning: From Pilots to Production
 
-1. [From Automation to Autonomy: Mastering Agentic AI Systems](01-agentic-ai.md)
-   - Implementing autonomous marketing agents
-   - Governance frameworks balancing autonomy and control
-   - Case studies: 50% automation rates in customer support
+1. [Breaking Through Pilot Purgatory](01-scaling-ai.md)
+   - Why 99% of GenAI remains in pilot phase
+   - McKinsey's 4-phase scaling methodology
+   - Overcoming technical and cultural barriers
    
-2. [Multimodal AI Mastery: Text, Image, Video & Voice](02-multimodal-ai.md)
-   - Integrating multiple data types for richer insights
-   - 1,200% traffic increases from multimodal strategies
-   - Dynamic content adaptation across formats
+2. [MarTech Integration Strategies](02-martech-integration.md)
+   - Technical deep dive with ML expert
+   - Composable architectures for flexibility
+   - API strategies and middleware solutions
+
+## Afternoon: Future-Ready Transformation
+
+3. [Next-Gen AI Applications](03-advanced-ai.md)
+   - Agentic AI: From automation to autonomy
+   - Multimodal systems: Integrating text, image, video, voice
+   - Case studies of 50% automation rates
    
-3. [The Human-AI Partnership: Upskilling Your Team](03-team-upskilling.md)
+4. [Building Your AI-Ready Organization](04-organization-transformation.md)
    - Addressing the 65% training gap
-   - Building AI centers of excellence
-   - Emerging roles: AI Marketing Strategists, Prompt Engineers
+   - Privacy-first strategies for post-cookie world
+   - Creating centers of excellence
    
-4. [Strategic Implementation Workshop](04-implementation-workshop.md)
+5. [Your 90-Day Implementation Roadmap](05-implementation-roadmap.md)
    - The 40-30-20-10 investment model
-   - Creating your personalized 90-day roadmap
-   - Change management for 1.6x better outcomes
+   - Personalized action planning
+   - Quick wins and long-term strategy
 
 ## Transformation Outcomes
 
 By the end of Day 2, participants will:
-- Understand agentic AI implementation strategies
-- Master multimodal marketing applications
-- Have a comprehensive team development plan
-- Leave with a personalized AI transformation roadmap
-- Join the 26% generating real value from AI
+- Have clear strategies for scaling successful pilots
+- Understand technical integration requirements
+- Know how to implement advanced AI applications
+- Have a plan for organizational transformation
+- Leave with a personalized 90-day roadmap
