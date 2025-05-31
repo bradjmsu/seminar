@@ -33,7 +33,7 @@ Finally, non-vendor education from people who've actually done this work.
 
 ### Your Instructors
 
-**Brad Johnson** - Enterprise AI implementation experience  
+**Brad Johnson** - AI implementation experience  
 Spent 15+ years implementing AI at scale in marketing organizations. Knows the politics, the pitfalls, and what actually works.
 
 **Eric Wiideman** - Technical architect and AI systems expert  

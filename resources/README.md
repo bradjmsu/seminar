@@ -1,18 +1,20 @@
-# Resources
+# Summit Resources
 
-This folder contains supplementary materials, tools, and references for the AI in Marketing seminar.
+Practical materials and templates for AI marketing implementation.
 
-## Categories
+## What's Included
 
-- **Tools & Platforms** - Links to recommended AI marketing tools
-- **Reading Materials** - Articles, papers, and books
-- **Templates** - Practical templates for AI marketing strategies
-- **Code Examples** - Sample code and implementations
-- **Datasets** - Practice datasets for hands-on exercises
+- **[Implementation Templates](templates.md)** - Business cases, ROI calculators, vendor scorecards
+- **Tool Evaluation Guides** - Honest assessments of popular AI marketing tools
+- **Integration Patterns** - Technical blueprints that actually work
+- **Case Studies** - Real failures and successes from peers
+- **Quick Win Playbooks** - Start small, prove value fast
 
-## Quick Links
+## Post-Summit Support
 
-- [Recommended Tools](tools.md)
-- [Further Reading](reading-list.md)
-- [Templates](templates/)
-- [Code Examples](code-examples/)
+- Slack community access
+- Monthly peer check-ins
+- Template updates
+- New tool reviews
+
+*All resources are based on real implementations, not theory.*

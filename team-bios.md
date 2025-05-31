@@ -1,7 +1,7 @@
 # Instructor Bios
 
 ## Brad Johnson
-*Enterprise AI Implementation Leader*
+*AI Implementation Leader*
 
 [Brad's detailed bio - to be filled in with:
 - Current role/company

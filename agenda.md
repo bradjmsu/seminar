@@ -11,7 +11,7 @@
 - Introductions and goal setting
 
 **9:30 - 11:00** - Cutting Through the AI BS
-- What actually works in enterprise marketing
+- What actually works in marketing organizations
 - Live tool demonstrations and real costs
 - Vendor promises vs. reality check
 
