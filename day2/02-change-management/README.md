@@ -15,11 +15,11 @@
 - Adoption metrics dashboard
 
 ## Materials Needed
-- Change curve visualization
-- Stakeholder mapping templates
-- Communication examples (good and bad)
-- Resistance handling playbook
-- Success story videos
+- Interactive change curve visualization in the app
+- Digital stakeholder mapping tools with drag-and-drop interface
+- Communication examples library (good and bad) in the app
+- Interactive resistance handling playbook with scenarios
+- Success story videos embedded in the app
 
 ## Facilitator Notes
 - Start with anonymous concerns about job loss

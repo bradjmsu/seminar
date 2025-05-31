@@ -15,10 +15,10 @@
 - Examples of successful and failed business cases
 
 ## Materials Needed
-- Financial modeling templates
-- Cost breakdown worksheets
-- Sample business cases (sanitized)
-- ROI calculator with common scenarios
+- Interactive financial modeling templates in the app
+- Digital cost breakdown worksheets with auto-calculations
+- Sample business cases (sanitized) viewable in the app
+- Dynamic ROI calculator with customizable scenarios
 
 ## Facilitator Notes
 - Start with examples of business cases that looked good but failed

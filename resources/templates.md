@@ -70,4 +70,4 @@ All templates are based on real implementations that got approved and delivered 
 - Success factors
 - Iteration planning
 
-*All templates provided in editable formats during the summit*
+*All templates provided as interactive digital tools in the Next.js app with real-time collaboration, auto-save, and export capabilities*

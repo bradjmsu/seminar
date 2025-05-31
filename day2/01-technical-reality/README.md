@@ -21,7 +21,7 @@
 
 ### Part 2: Architecture Deep Dive (30 min)
 **Eric leads hands-on architecture session**
-- Participants sketch current architecture
+- Participants diagram current architecture in the app
 - Eric identifies pain points and risks
 - Common patterns: microservices vs monoliths for AI
 - API gateway strategies that work
@@ -43,11 +43,11 @@
 - Eric's contact for follow-up questions
 
 ## Materials Needed
-- Eric's architecture pattern library
-- Real system diagrams from his implementations
-- Data pipeline templates
-- Infrastructure cost calculators
-- Security requirement checklists
+- Eric's architecture pattern library accessible in the app
+- Interactive system diagrams from his implementations in the app
+- Customizable data pipeline templates in the app
+- Interactive infrastructure cost calculators in the app
+- Digital security requirement checklists with progress tracking
 
 ## Facilitator Notes
 **Eric is the star - let his expertise shine:**

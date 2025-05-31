@@ -59,12 +59,17 @@ No. We cover technical concepts in plain English. You need:
 - Authority to implement pilots
 - Willingness to be honest about challenges
 
-## What COVID precautions are in place?
+## What technology do I need to bring?
 
-- Venue follows local health guidelines
-- Spacious room setup
-- Optional outdoor sessions (weather permitting)
-- Full refund if travel restrictions prevent attendance
+Just a laptop or tablet with a modern browser. Everything runs on our custom platform - no apps to download, no special software needed. The venue provides Wi-Fi, and we have offline backups if needed.
+
+## Why is everything digital?
+
+- **Better collaboration** - Real-time sharing and saving
+- **Take your work home** - Everything exports easily  
+- **No lost sticky notes** - All work is preserved
+- **More interactive** - Features paper can't provide
+- **No Iceland logistics** - We're not shipping whiteboards!
 
 ## How do I convince my boss?
 

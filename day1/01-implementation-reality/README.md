@@ -15,10 +15,10 @@
 - Honest assessment framework for AI readiness
 
 ## Materials Needed
-- Whiteboard/flip charts for capture
-- Anonymous polling tool for sensitive topics
-- Case study handouts (failed and successful implementations)
-- Implementation cost calculator template
+- Digital collaborative canvas in the app for real-time capture
+- Built-in anonymous polling feature for sensitive topics
+- Case studies accessible in the app (failed and successful implementations)
+- Interactive implementation cost calculator in the app
 
 ## Facilitator Notes
 - Start with anonymous poll about AI project failures/challenges

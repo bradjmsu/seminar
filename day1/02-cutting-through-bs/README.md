@@ -41,11 +41,11 @@
 - Vendor evaluation framework (technical + practical)
 
 ## Materials Needed
-- Eric's technical validation framework
-- Real vendor proposals for analysis
-- "What this really means" translation guide
-- Technical complexity assessment tool
-- Vendor demo recordings
+- Eric's technical validation framework integrated in the app
+- Real vendor proposals accessible in the app for analysis
+- Interactive "What this really means" translation guide in the app
+- Digital technical complexity assessment tool with scoring
+- Vendor demo recordings with synchronized annotation features
 
 ## Facilitator Notes
 **Tag-team approach maximizes credibility:**
