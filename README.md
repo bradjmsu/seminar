@@ -1,43 +1,57 @@
-# AI Marketing Mastery Seminar
+# AI Marketing Implementation Summit - Reykjavík
 
-A high-impact 2-day seminar designed for senior marketing professionals ready to bridge the gap between AI experimentation and execution.
+A 2-day intensive summit for marketing practitioners tasked with implementing AI in their organizations.
 
-## The Opportunity
+## For Practitioners, By Practitioners
 
-While 78% of organizations use AI in marketing, only 26% generate tangible value. This seminar equips you to join the elite performers seeing:
-- 2,930% increases in leads (Harley-Davidson)
-- 336% return on ad spend (Cosabella)
-- $1 billion in annual savings (Netflix)
+Finally, non-vendor education from people who've actually done this work.
 
-## Instructors
+### Who Should Attend
 
-- **Expert 1**: Strategic AI Implementation & Hands-on MarTech Integration
-- **Expert 2**: Machine Learning Applications & Advanced AI Systems
+- Marketing Operations Directors
+- Digital Transformation Leads  
+- Innovation Managers
+- Senior Marketing Managers with AI initiatives
+- Anyone who's been told "figure out our AI strategy"
 
-## What You'll Master
+*Not for C-suite. For the people actually doing the work.*
 
-- **ROI Measurement**: Frameworks to prove and maximize AI value
-- **Scaling Strategies**: Move from pilots to production
-- **Agentic AI**: Implement autonomous marketing systems
-- **Integration**: Connect AI to your existing tech stack
-- **Team Transformation**: Build AI-ready marketing organizations
+### Why Reykjavík?
 
-## Quick Links
+- **Focus**: No distractions, full immersion
+- **Memorable**: Career milestone experience  
+- **Intimate**: Only 50 attendees for real conversation
+- **Accessible**: Easy flights from US East Coast and Europe
+
+### What You'll Get
+
+✓ Practical frameworks that actually work  
+✓ Real implementation templates  
+✓ Peer connections who understand your challenges  
+✓ 90-day action plan with accountability partner  
+✓ No vendor pitches, just honest guidance  
+
+### Your Instructors
+
+**[Your Name]** - Enterprise AI implementation experience  
+**Eric** - Technical expertise and consulting perspective
+
+Together, we bring both strategic and technical depth from real-world implementations.
+
+### Investment
+
+**Regular Rate**: $2,750  
+**Early Bird** (First 20): $2,250
+
+*Includes all sessions, materials, lunches, and welcome dinner*
+
+### Quick Links
 
 - [Full Agenda](agenda.md)
-- [Learning Flow & Structure](seminar-flow.md)
-- [Day 1: Foundations & ROI](day1/)
-- [Day 2: Advanced Applications](day2/)
-- [Resources & Tools](resources/)
+- [Registration](#) *(Coming Soon)*
+- [Travel & Accommodation](travel.md)
+- [FAQ](faq.md)
 
-## Target Audience
+---
 
-- CMOs and VP Marketing
-- Marketing Operations Leaders
-- Digital Marketing Directors
-- MarTech Managers
-- Analytics Leaders
-
-## Investment Model
-
-Learn the 40-30-20-10 framework for strategic AI investment and leave with a personalized 90-day implementation roadmap.
+*"Stop Googling. Start Implementing."*

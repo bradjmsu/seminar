@@ -1,41 +1,54 @@
-# Day 2: Scaling & Advanced Applications
+# Day 2: Scaling & Organizational Success
 
-Building on Day 1 foundations to tackle enterprise-scale implementation.
+Moving from pilot to production without losing your sanity.
 
-## Morning: From Pilots to Production
+## Morning Focus: The Hard Truths
 
-1. [Breaking Through Pilot Purgatory](01-scaling-ai.md)
-   - Why 99% of GenAI remains in pilot phase
-   - McKinsey's 4-phase scaling methodology
-   - Overcoming technical and cultural barriers
-   
-2. [MarTech Integration Strategies](02-martech-integration.md)
-   - Technical deep dive with ML expert
-   - Composable architectures for flexibility
-   - API strategies and middleware solutions
+### The Technical Reality (90 min)
+What vendors won't tell you about:
+- Integration patterns and gotchas
+- Data requirements and prep time
+- Build vs. buy decisions
+- Vendor evaluation criteria that matter
 
-## Afternoon: Future-Ready Transformation
+### Organizational Change Management (105 min)
+The people side is harder than the tech side:
+- Getting stakeholder buy-in (templates included)
+- Building your pilot team
+- Managing expectations up and down
+- Navigating corporate politics
+- Showing early wins that matter
 
-3. [Next-Gen AI Applications](03-advanced-ai.md)
-   - Agentic AI: From automation to autonomy
-   - Multimodal systems: Integrating text, image, video, voice
-   - Case studies of 50% automation rates
-   
-4. [Building Your AI-Ready Organization](04-organization-transformation.md)
-   - Addressing the 65% training gap
-   - Privacy-first strategies for post-cookie world
-   - Creating centers of excellence
-   
-5. [Your 90-Day Implementation Roadmap](05-implementation-roadmap.md)
-   - The 40-30-20-10 investment model
-   - Personalized action planning
-   - Quick wins and long-term strategy
+## Afternoon Focus: Making It Stick
 
-## Transformation Outcomes
+### Peer Advisory Circles (90 min)
+Your ongoing support network:
+- Groups of 8-10 with similar challenges
+- Facilitated problem-solving
+- Documented solutions
+- Contact exchange for ongoing support
 
-By the end of Day 2, participants will:
-- Have clear strategies for scaling successful pilots
-- Understand technical integration requirements
-- Know how to implement advanced AI applications
-- Have a plan for organizational transformation
-- Leave with a personalized 90-day roadmap
+### Your 90-Day Action Plan (75 min)
+Leave with a real plan:
+- Customized planning templates
+- 1:1 consultation slots with instructors
+- Accountability partner matching
+- Public commitment for follow-through
+
+## The Summit Difference
+
+Day 2 transforms Day 1's learning into action:
+- Technical knowledge to navigate vendor conversations
+- Political skills to drive organizational change
+- Peer network for ongoing support
+- Concrete 90-day plan with accountability
+- Confidence that you're not alone in this
+
+## Post-Summit
+
+You leave with:
+- Completed 90-day action plan
+- Accountability partner
+- Peer advisory group contacts
+- All templates and frameworks
+- Direct access to instructors for 30 days

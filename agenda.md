@@ -1,54 +1,78 @@
-# AI Marketing Mastery Seminar - Agenda
+# AI Marketing Implementation Summit - Reykjavík
+## For Practitioners, By Practitioners
 
-## Day 1: Foundations to Value Creation
+### Day 1: Foundations & Practical Implementation
 
-### Morning Session (9:00 AM - 12:30 PM)
-- **9:00 - 9:30** - Welcome & The AI Adoption Paradox
-- **9:30 - 10:45** - [AI/ML Fundamentals for Marketers](day1/01-ai-fundamentals/)
-  - Key concepts: supervised/unsupervised learning, neural networks
-  - Essential statistics: regression, classification, clustering
-  - Demystifying the technology
-- **10:45 - 11:00** - Break
-- **11:00 - 12:30** - [The Marketing AI Landscape: What's Real vs. Hype](day1/02-ai-landscape/)
-  - Current capabilities and limitations
-  - Tool categories and use cases
-  - Live demos of leading platforms
+#### Morning Session (9:00 AM - 12:30 PM)
 
-### Lunch Break (12:30 PM - 1:30 PM)
+**9:00 - 9:30** - Welcome & The Implementation Reality
+- Why most AI initiatives fail (and how to be different)
+- The practitioner's paradox
+- Introductions and goal setting
 
-### Afternoon Session (1:30 PM - 5:00 PM)
-- **1:30 - 3:00** - [The $1 Billion Question: Measuring and Maximizing AI ROI](day1/03-measuring-roi/)
-  - Building on fundamentals: attribution models and KPIs
-  - Case studies: Netflix, Harley-Davidson, Cosabella
-- **3:00 - 3:15** - Break
-- **3:15 - 4:30** - [Hands-On Workshop: Your First AI Marketing Implementation](day1/04-hands-on-basics/)
-  - Practical exercise with real tools
-  - Understanding outputs and limitations
-- **4:30 - 5:00** - Day 1 Synthesis & Homework
+**9:30 - 11:00** - Cutting Through the AI BS
+- What actually works in enterprise marketing
+- Live tool demonstrations and real costs
+- Vendor promises vs. reality check
 
-## Day 2: Scaling & Advanced Applications
+**11:00 - 11:15** - Break & Networking
 
-### Morning Session (9:00 AM - 12:30 PM)
-- **9:00 - 9:30** - Day 1 Recap & Building on Foundations
-- **9:30 - 10:45** - [Breaking Through Pilot Purgatory: Scaling AI to Production](day2/01-scaling-ai/)
-  - McKinsey's 4-phase methodology
-  - Change management for technical and cultural barriers
-- **10:45 - 11:00** - Break
-- **11:00 - 12:30** - [Integration Without Tears: Connecting AI to Your MarTech Stack](day2/02-martech-integration/)
-  - Technical deep dive with your ML expert
-  - Composable architectures and API strategies
+**11:15 - 12:30** - Building Your Business Case
+- ROI frameworks that actually get approved
+- Real examples from peers
+- Template walkthrough
 
-### Lunch Break (12:30 PM - 1:30 PM)
+#### Lunch (12:30 PM - 2:00 PM)
+*Structured networking lunch*
 
-### Afternoon Session (1:30 PM - 5:00 PM)
-- **1:30 - 2:30** - [Next-Gen AI: Agentic Systems & Multimodal Applications](day2/03-advanced-ai/)
-  - From automation to autonomy
-  - Text, image, video, and voice integration
-- **2:30 - 2:45** - Break
-- **2:45 - 3:45** - [Building Your AI-Ready Organization](day2/04-organization-transformation/)
-  - Team upskilling strategies
-  - Privacy-first approaches in the post-cookie era
-- **3:45 - 4:45** - [Your 90-Day Implementation Roadmap](day2/05-implementation-roadmap/)
-  - 40-30-20-10 investment model
-  - Personalized action planning
-- **4:45 - 5:00** - Final Q&A & Closing Remarks
+#### Afternoon Session (2:00 PM - 5:00 PM)
+
+**2:00 - 5:00** - Implementation Workshop
+- Break into small groups by industry/challenge
+- Work on YOUR actual use cases
+- Technical guidance and strategy support
+- Present solutions to group
+
+#### Evening (6:30 PM)
+**Welcome Dinner** - Structured networking at local restaurant
+
+---
+
+### Day 2: Scaling & Organizational Success
+
+#### Morning Session (9:00 AM - 12:30 PM)
+
+**9:00 - 10:30** - The Technical Reality
+- Integration patterns that actually work
+- Data requirements nobody tells you about
+- Vendor evaluation framework
+- Your tech stack assessment
+
+**10:30 - 10:45** - Break & Peer Connections
+
+**10:45 - 12:30** - Organizational Change Management
+- Getting stakeholder buy-in strategies
+- Building your AI pilot team
+- Managing expectations and showing early wins
+- Politics navigation workshop
+
+#### Lunch (12:30 PM - 2:00 PM)
+*Open networking and peer problem-solving*
+
+#### Afternoon Session (2:00 PM - 5:00 PM)
+
+**2:00 - 3:30** - Peer Advisory Circles
+- Groups of 8-10 solving real problems together
+- Facilitated deep-dive sessions
+- Document solutions and commitments
+
+**3:30 - 3:45** - Break
+
+**3:45 - 5:00** - Your 90-Day Action Plan
+- Individual planning with provided templates
+- 1:1 consultation time slots
+- Accountability partner matching
+- Commitment ceremony
+
+#### Closing (5:00 PM)
+**Group Photo & Departure**

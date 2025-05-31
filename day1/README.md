@@ -1,36 +1,43 @@
-# Day 1: Foundations to Value Creation
+# Day 1: Foundations & Practical Implementation
 
-Building a solid foundation before diving into advanced applications.
+Get real about what works, what doesn't, and what to do about it.
 
-## Morning: Understanding the Technology
+## Morning Focus: Reality Check
 
-1. [AI/ML Fundamentals for Marketers](01-ai-fundamentals.md)
-   - Demystifying machine learning concepts
-   - Essential statistics: regression, classification, clustering
-   - Understanding what AI can and cannot do
-   
-2. [The Marketing AI Landscape](02-ai-landscape.md)
-   - Separating reality from hype
-   - Current tool categories and capabilities
-   - Live demonstrations of leading platforms
+### Welcome & The Implementation Reality (30 min)
+Setting the stage for honest conversation about the challenges we all face.
 
-## Afternoon: From Understanding to Value
+### Cutting Through the AI BS (90 min)
+- Live demonstrations of actual tools
+- Real costs vs. vendor quotes
+- What's hype vs. what delivers value
+- The tools we actually use daily
 
-3. [Measuring and Maximizing AI ROI](03-measuring-roi.md)
-   - Building on fundamentals to create measurement frameworks
-   - Case studies: Netflix ($1B savings), Harley-Davidson (2,930% leads)
-   - Attribution models and KPI development
-   
-4. [Hands-On Workshop](04-hands-on-basics.md)
-   - Your first AI marketing implementation
-   - Understanding outputs, limitations, and possibilities
-   - Practical experience with real tools
+### Building Your Business Case (75 min)
+- Templates that have gotten approval
+- ROI models that finance understands
+- Peer examples and discussion
 
-## Progressive Learning Path
+## Afternoon Focus: Hands-On Work
 
-Day 1 is designed to:
-- Start with core concepts (no assumed AI knowledge)
-- Build understanding through real examples
-- Connect theory to practical value measurement
-- Provide hands-on experience to solidify learning
-- Prepare participants for Day 2's advanced topics
+### Implementation Workshop (3 hours)
+The heart of Day 1 - working on YOUR actual challenges:
+- Industry/challenge-based small groups
+- Real use case development
+- Technical feasibility assessment
+- Strategy and change management planning
+- Group presentations and feedback
+
+## Evening: Connected
+
+### Welcome Dinner
+Structured networking to ensure you meet the right peers for ongoing support.
+
+## Key Takeaways
+
+By end of Day 1, you'll have:
+- Clarity on which AI tools actually deliver value
+- A business case framework you can customize
+- Started work on your specific implementation challenge
+- Connected with peers facing similar challenges
+- Honest assessment of what you're up against
