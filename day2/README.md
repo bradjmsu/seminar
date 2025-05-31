@@ -4,14 +4,14 @@ Moving from pilot to production without losing your sanity.
 
 ## Morning Focus: The Hard Truths
 
-### The Technical Reality (90 min)
+### The Technical Reality (60 min)
 What vendors won't tell you about:
 - Integration patterns and gotchas
-- Data requirements and prep time
+- Data requirements and technical debt
 - Build vs. buy decisions
-- Vendor evaluation criteria that matter
+- Quick tech stack assessment
 
-### Organizational Change Management (105 min)
+### Organizational Change Management (135 min)
 The people side is harder than the tech side:
 - Getting stakeholder buy-in (templates included)
 - Building your pilot team

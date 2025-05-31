@@ -2,36 +2,39 @@
 
 ## Day 1 Schedule
 
-### Morning Block (9:00 AM - 12:30 PM)
+### Morning Block (09:00 - 12:30)
 ```
-9:00 - 9:30   Welcome & Implementation Reality (30 min) - Brad leads
-9:30 - 11:00  AI Reality Check: Separating Fact from Fiction (90 min) - Brad & Eric co-lead
-11:00 - 11:15 Break & Networking (15 min)
-11:15 - 12:30 Building Your Business Case (75 min) - Brad leads
+09:00 - 09:30  Welcome & Implementation Reality (30 min) - Brad leads
+09:30 - 10:45  AI Fluency: Essential ML/DL Concepts (75 min) - Eric leads, Brad supports
+10:45 - 11:00  Break & Networking (15 min)
+11:00 - 12:00  From Theory to Practice: Tools & Reality (60 min) - Brad & Eric co-lead
+12:00 - 12:30  Building Your Business Case Introduction (30 min) - Brad leads
 ```
 
-### Afternoon Block (2:00 PM - 5:00 PM)
+### Afternoon Block (14:00 - 17:00)
 ```
-2:00 - 5:00   Implementation Workshop (180 min) - Both facilitate
-  - 2:00-2:30   Group formation and challenge selection
-  - 2:30-4:30   Deep work in small groups (with roving support)
-  - 4:30-5:00   Group presentations and peer feedback
+14:00 - 14:30  Business Case Deep Dive (30 min) - Brad leads
+14:30 - 16:30  Implementation Workshop (120 min) - Both facilitate
+  - 14:30-14:45  Group formation and use case selection
+  - 14:45-16:00  Deep work applying ML concepts (with rotating support)
+  - 16:00-16:30  Final preparation for presentations
+16:30 - 17:00  Lightning Round Presentations (30 min) - Both moderate
 ```
 
 ## Day 2 Schedule
 
-### Morning Block (9:00 AM - 12:30 PM)
+### Morning Block (09:00 - 12:30)
 ```
-9:00 - 10:30  The Technical Reality (90 min) - Eric leads, Brad supports
-10:30 - 10:45 Break & Peer Connections (15 min)
-10:45 - 12:30 Organizational Change Management (105 min) - Brad leads
+09:00 - 10:00  The Technical Reality (60 min) - Eric leads, Brad supports
+10:00 - 10:15  Break & Peer Connections (15 min)
+10:15 - 12:30  Organizational Change Management (135 min) - Brad leads
 ```
 
-### Afternoon Block (2:00 PM - 5:00 PM)
+### Afternoon Block (14:00 - 17:00)
 ```
-2:00 - 3:30   Peer Advisory Circles (90 min) - Both facilitate groups
-3:30 - 3:45   Break (15 min)
-3:45 - 5:00   Your 90-Day Action Plan (75 min) - Both support 1:1s
+14:00 - 15:30  Peer Advisory Circles (90 min) - Both facilitate groups
+15:30 - 15:45  Break (15 min)
+15:45 - 17:00  Your 90-Day Action Plan (75 min) - Both support 1:1s
 ```
 
 ## Time Management Tips

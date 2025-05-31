@@ -1,15 +1,15 @@
 # The Human Side: Change Management
 
-**Duration:** 105 minutes
+**Duration:** 135 minutes
 
 ## Session Timeline
 - 0:00-0:05 - Session intro and anonymous concerns poll
-- 0:05-0:25 - Failed adoption case studies and lessons learned
-- 0:25-0:45 - Stakeholder mapping and resistance analysis exercise
-- 0:45-0:65 - Building your champion network strategy
-- 0:65-0:85 - Communication planning workshop
-- 0:85-0:95 - Role-play: handling difficult conversations
-- 0:95-0:105 - Training program design and wrap-up
+- 0:05-0:30 - Failed adoption case studies and lessons learned
+- 0:30-0:55 - Stakeholder mapping and resistance analysis exercise
+- 0:55-0:80 - Building your champion network strategy
+- 0:80-0:105 - Communication planning workshop
+- 0:105-0:120 - Role-play: handling difficult conversations
+- 0:120-0:135 - Training program design and wrap-up
 
 ## Key Objectives
 - Address employee fears and resistance honestly

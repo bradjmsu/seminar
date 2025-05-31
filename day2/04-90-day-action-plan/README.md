@@ -1,4 +1,4 @@
-# 90-Day Action Planning
+# 90-Day Action Plan
 
 **Duration:** 75 minutes
 

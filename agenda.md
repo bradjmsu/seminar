@@ -3,76 +3,93 @@
 
 ### Day 1: Foundations & Practical Implementation
 
-#### Morning Session (9:00 AM - 12:30 PM)
+#### Morning Session (09:00 - 12:30)
 
-**9:00 - 9:30** - Welcome & The Implementation Reality
+**09:00 - 09:30** - Welcome & The Implementation Reality
 - Why most AI initiatives fail (and how to be different)
 - The practitioner's paradox
-- Introductions and goal setting
+- Quick introductions and goal setting
 
-**9:30 - 11:00** - AI Reality Check: Separating Fact from Fiction
-- What actually works in marketing organizations
-- Live tool demonstrations and real costs
-- Vendor promises vs. reality check
+**09:30 - 10:45** - AI Fluency: Essential ML/DL Concepts
+- Statistics refresher: Only what matters for marketing
+- How ML actually works: Supervised, unsupervised, and deep learning
+- The data requirements nobody mentions
+- Key concepts: Training, validation, overfitting, bias
+- "Cheat sheet" for talking to data scientists
 
-**11:00 - 11:15** - Break & Networking
+**10:45 - 11:00** - Break & Networking
 
-**11:15 - 12:30** - Building Your Business Case
-- ROI frameworks that actually get approved
+**11:00 - 12:00** - From Theory to Practice: Tools & Reality
+- Which tools use real AI vs. marketing fluff
+- Live demonstrations mapped to ML concepts
+- Real costs and implementation timelines
+- Technical color commentary on demonstrations
+
+**12:00 - 12:30** - Building Your Business Case Introduction
+- ROI framework overview
+- Setting up afternoon workshop
+
+#### Lunch (12:30 - 14:00)
+*Structured networking lunch*
+
+#### Afternoon Session (14:00 - 17:00)
+
+**14:00 - 14:30** - Business Case Deep Dive
+- ROI models that get approved
 - Real examples from peers
 - Template walkthrough
 
-#### Lunch (12:30 PM - 2:00 PM)
-*Structured networking lunch*
+**14:30 - 16:30** - Implementation Workshop
+- Small groups by industry/challenge
+- Focus on ONE specific use case per group
+- Apply morning's ML concepts to real problems
+- Rotating technical and strategic guidance
 
-#### Afternoon Session (2:00 PM - 5:00 PM)
+**16:30 - 17:00** - Lightning Round Presentations
+- Each group shares key insight (5 minutes max)
+- Group feedback and discussion
 
-**2:00 - 5:00** - Implementation Workshop
-- Break into small groups by industry/challenge
-- Work on YOUR actual use cases
-- Technical guidance and strategy support
-- Present solutions to group
-
-#### Evening (6:30 PM)
+#### Evening (18:30)
 **Welcome Dinner** - Structured networking at local restaurant
 
 ---
 
 ### Day 2: Scaling & Organizational Success
 
-#### Morning Session (9:00 AM - 12:30 PM)
+#### Morning Session (09:00 - 12:30)
 
-**9:00 - 10:30** - The Technical Reality
+**09:00 - 10:00** - The Technical Reality
 - Integration patterns that actually work
-- Data requirements nobody tells you about
+- Data requirements and technical debt
 - Vendor evaluation framework
-- Your tech stack assessment
+- Quick tech stack assessment
 
-**10:30 - 10:45** - Break & Peer Connections
+**10:00 - 10:15** - Break & Peer Connections
 
-**10:45 - 12:30** - Organizational Change Management
+**10:15 - 12:30** - Organizational Change Management
 - Getting stakeholder buy-in strategies
 - Building your AI pilot team
 - Managing expectations and showing early wins
 - Politics navigation workshop
+- Change management templates
 
-#### Lunch (12:30 PM - 2:00 PM)
+#### Lunch (12:30 - 14:00)
 *Open networking and peer problem-solving*
 
-#### Afternoon Session (2:00 PM - 5:00 PM)
+#### Afternoon Session (14:00 - 17:00)
 
-**2:00 - 3:30** - Peer Advisory Circles
+**14:00 - 15:30** - Peer Advisory Circles
 - Groups of 8-10 solving real problems together
 - Facilitated deep-dive sessions
 - Document solutions and commitments
 
-**3:30 - 3:45** - Break
+**15:30 - 15:45** - Break
 
-**3:45 - 5:00** - Your 90-Day Action Plan
+**15:45 - 17:00** - Your 90-Day Action Plan
 - Individual planning with provided templates
 - 1:1 consultation time slots
 - Accountability partner matching
 - Commitment ceremony
 
-#### Closing (5:00 PM)
+#### Closing (17:00)
 **Group Photo & Departure**

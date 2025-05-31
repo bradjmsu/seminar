@@ -1,35 +1,44 @@
-# AI Implementation Reality Check
+# Welcome & The Implementation Reality
 
-**Duration:** 30 minutes
+**Duration:** 30 minutes  
+**Time:** 9:00 - 9:30 AM
+
+## Overview
+
+Setting the stage for honest conversation about the challenges we all face in implementing AI for marketing.
+
+## Key Topics
+
+- Why most AI initiatives fail (and how to be different)
+- The practitioner's paradox
+- Quick introductions and goal setting
 
 ## Session Timeline
-- 0:00-0:05 - Welcome, session intro, and anonymous poll launch
-- 0:05-0:15 - Brad's reality check: vendor promises vs. actual outcomes
-- 0:15-0:20 - Participant "AI horror story" rapid sharing
-- 0:20-0:25 - Implementation reality framework walkthrough
-- 0:25-0:30 - Setting expectations for the summit and Q&A
 
-## Key Objectives
-- Cut through vendor hype to understand what AI actually delivers today
-- Share real implementation experiences - the good, bad, and expensive
-- Identify common pitfalls before you hit them
-- Establish realistic expectations for AI projects
+- 0:00-0:05 - Welcome and session introduction
+- 0:05-0:15 - The implementation reality: why projects fail
+- 0:15-0:20 - Quick participant introductions and goals
+- 0:20-0:25 - The practitioner's paradox discussion
+- 0:25-0:30 - Preview of summit journey and expectations
 
 ## What Participants Will Walk Away With
-- Clear understanding of AI's current capabilities vs. marketing promises
-- Checklist of red flags when evaluating AI solutions
-- Real-world timelines and resource requirements
-- Honest assessment framework for AI readiness
+
+- Clear understanding of common AI implementation challenges
+- Shared goals and connections with other participants
+- Framework for avoiding common pitfalls
+- Realistic expectations for the summit
 
 ## Materials Needed
-- Digital collaborative canvas in the app for real-time capture
-- Built-in anonymous polling feature for sensitive topics
-- Case studies accessible in the app (failed and successful implementations)
-- Interactive implementation cost calculator in the app
+
+- Name tags and quick intro cards
+- Digital collaborative space for capturing goals
+- Implementation failure statistics and examples
+- Summit roadmap and agenda
 
 ## Facilitator Notes
-- Start with anonymous poll about AI project failures/challenges
-- Encourage brutal honesty - this is a safe space
-- Use "buzzword bingo" cards for vendor jargon
-- Keep focus on practical experiences, not theory
-- Have participants share their "AI horror stories" early to set tone
+
+- Create safe space for honest discussion early
+- Use quick icebreaker to get people talking
+- Capture individual goals for reference throughout summit
+- Set tone of practical, no-BS approach
+- Preview how each session builds on the next

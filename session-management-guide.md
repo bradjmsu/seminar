@@ -6,7 +6,7 @@ We've replaced casual language with professional alternatives throughout:
 
 | Original | Updated To | Why It's Better |
 |----------|------------|-----------------|
-| "Cutting Through the AI BS" | "AI Reality Check: Separating Fact from Fiction" | Professional yet still conveys skepticism |
+| "Cutting Through the AI BS" | "AI Fluency: Essential ML/DL Concepts" | Educational focus on building understanding |
 | "BS detector" | "Reality check framework" | Actionable tool name |
 | "Vendor BS" | "Vendor claims validation" | Constructive rather than dismissive |
 | "Spot BS" | "Identify misleading claims" | Specific and professional |
@@ -22,13 +22,13 @@ Every session now includes minute-by-minute breakdowns. This helps you:
 
 ## Example Timeline Breakdown
 
-### AI Reality Check (90 minutes)
+### AI Fluency (75 minutes)
 ```
-0:00-0:05   Intro and objectives (Brad)
-0:05-0:35   Vendor Decoder Ring (Brad leads, Eric comments)
-0:35-0:65   Technical Deep Dive (Eric leads, Brad supports)
-0:65-0:85   Live Demo Teardown (Both facilitate)
-0:85-0:90   Wrap-up and framework distribution
+0:00-0:05   Intro and objectives (Eric)
+0:05-0:20   Statistics refresher for marketing (Eric)
+0:20-0:45   How ML actually works (Eric leads, Brad adds context)
+0:45-0:65   Key concepts: training, validation, bias (Eric)
+0:65-0:75   Cheat sheet distribution and Q&A
 ```
 
 ## Key Session Management Tips

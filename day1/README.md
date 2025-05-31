@@ -1,43 +1,57 @@
 # Day 1: Foundations & Practical Implementation
 
-Get real about what works, what doesn't, and what to do about it.
+Build essential AI fluency and apply it to real challenges.
 
-## Morning Focus: Reality Check
+## Morning Focus: From Theory to Practice
 
 ### Welcome & The Implementation Reality (30 min)
 Setting the stage for honest conversation about the challenges we all face.
 
-### AI Reality Check: Separating Fact from Fiction (90 min)
-- Live demonstrations of actual tools
-- Real costs vs. vendor quotes
-- What's hype vs. what delivers value
-- The tools we actually use daily
+### AI Fluency: Essential ML/DL Concepts (75 min)
+- Statistics refresher focused on marketing applications
+- How ML actually works in plain English
+- Key concepts you need to understand
+- Cheat sheet for technical conversations
 
-### Building Your Business Case (75 min)
-- Templates that have gotten approval
-- ROI models that finance understands
-- Peer examples and discussion
+### From Theory to Practice: Tools & Reality (60 min)
+- Live demonstrations mapped to ML concepts
+- Which tools use real AI vs. marketing fluff
+- Real costs and implementation timelines
+- Technical color commentary by Eric
 
-## Afternoon Focus: Hands-On Work
+### Building Your Business Case Introduction (30 min)
+- ROI framework overview
+- Setting up the afternoon workshop
 
-### Implementation Workshop (3 hours)
-The heart of Day 1 - working on YOUR actual challenges:
-- Industry/challenge-based small groups
-- Real use case development
-- Technical feasibility assessment
-- Strategy and change management planning
-- Group presentations and feedback
+## Afternoon Focus: Hands-On Application
+
+### Business Case Deep Dive (30 min)
+- ROI models that get approved
+- Real examples from peers
+- Template walkthrough
+
+### Implementation Workshop (2 hours)
+The heart of Day 1 - applying ML concepts to YOUR challenges:
+- Small groups by industry/challenge
+- Focus on ONE specific use case per group
+- Apply morning's ML concepts to real problems
+- Rotating technical and strategic guidance
+
+### Lightning Round Presentations (30 min)
+- Each group shares key insight (5 minutes max)
+- Group feedback and discussion
 
 ## Evening: Connected
 
-### Welcome Dinner
+### Welcome Dinner (18:30)
 Structured networking to ensure you meet the right peers for ongoing support.
 
 ## Key Takeaways
 
 By end of Day 1, you'll have:
-- Clarity on which AI tools actually deliver value
-- A business case framework you can customize
-- Started work on your specific implementation challenge
+- Solid understanding of ML/DL concepts relevant to marketing
+- Ability to evaluate which tools use real AI
+- Business case framework with real examples
+- Started work on your specific use case
+- Applied ML concepts to your actual challenge
 - Connected with peers facing similar challenges
-- Honest assessment of what you're up against
