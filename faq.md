@@ -28,7 +28,7 @@ If your boss said "figure out our AI strategy" and you're Googling at midnight, 
 - Lunch both days
 - Welcome dinner (Day 1)
 - All templates and frameworks
-- 30 days post-event instructor access
+- 30 days post-event access to Brad and Eric
 - Peer network access
 
 **Not included:** Flights, accommodation, other meals
@@ -82,7 +82,7 @@ We also provide a formal invitation letter upon request.
 
 ## Still have questions?
 
-Email: [contact email]  
-LinkedIn: [your profiles]
+Email: contact@aimarketingsummit.com  
+LinkedIn: Brad Johnson | Eric Wiideman
 
 *We typically respond within 24 hours*

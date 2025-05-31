@@ -51,4 +51,4 @@ You leave with:
 - Accountability partner
 - Peer advisory group contacts
 - All templates and frameworks
-- Direct access to instructors for 30 days
+- Direct access to Brad and Eric for 30 days

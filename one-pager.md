@@ -25,10 +25,10 @@ You've been tasked with "figuring out AI" for your marketing organization. You'v
 ✓ Ongoing accountability partner  
 
 #### Who's Leading:
-- **[Your Name]**: Enterprise AI implementation veteran
-- **Eric**: Technical expert and consultant
+- **Brad Johnson**: Enterprise AI implementation veteran who knows the organizational realities
+- **Eric Wiideman**: Technical architect who's built these systems and can spot BS from miles away
 
-*We've been where you are. We'll show you the path forward.*
+*We're the technical + practical duo you need. Eric ensures it's technically sound. Brad ensures it's organizationally possible.*
 
 ### The Details
 

@@ -1,28 +1,56 @@
 # Cutting Through the AI BS
 
-**Duration:** 60 minutes
+**Duration:** 90 minutes  
+**Co-facilitated by Brad and Eric**
 
 ## Key Objectives
-- Decode vendor sales pitches and marketing speak
-- Learn to ask the right technical questions
-- Identify when consultants are blowing smoke
-- Build your personal BS detection toolkit
+- Decode vendor sales pitches with technical understanding
+- Learn which technical questions expose weak solutions
+- Understand real capabilities vs. marketing hype
+- Build your BS detection toolkit with Eric's technical insights
+
+## Session Flow
+
+### Part 1: Vendor Decoder Ring (30 min)
+**Brad leads, Eric provides technical reality checks**
+- "AI-powered" = Often just if/then rules
+- "Machine learning" = Sometimes just linear regression
+- "Proprietary algorithm" = We don't want to tell you it's basic
+- "Seamless integration" = 6-month implementation project
+
+### Part 2: Technical Reality Check (30 min)
+**Eric leads with deep technical expertise**
+- How to spot fake AI (Eric's checklist)
+- Real ML vs. dressed-up analytics
+- Integration nightmares vendors hide
+- Data requirements they won't mention
+- Why their benchmarks are meaningless
+
+### Part 3: Live Demo Teardown (30 min)
+**Both facilitate together**
+- Real vendor demo with Eric's technical commentary
+- Brad translates to business impact
+- Audience practices asking killer questions
+- Role-play with Eric as "technical validator"
 
 ## What Participants Will Walk Away With
-- List of "red flag" phrases and what they really mean
-- Technical questions that expose weak solutions
-- Vendor evaluation scorecard
-- Confidence to push back on unrealistic claims
+- Eric's "Technical BS Detector" checklist
+- Questions that make vendors sweat
+- Understanding of real vs. fake AI capabilities
+- Confidence from Eric's technical backing
+- Vendor evaluation framework (technical + practical)
 
 ## Materials Needed
-- Collection of actual vendor pitches/proposals
-- "Translation guide" for AI buzzwords
-- Question bank for vendor meetings
-- Recording of typical sales pitch (for analysis)
+- Eric's technical validation framework
+- Real vendor proposals for analysis
+- "What this really means" translation guide
+- Technical complexity assessment tool
+- Vendor demo recordings
 
 ## Facilitator Notes
-- Make this fun - use humor to deflate the hype
-- Role-play vendor meetings with participants
-- Share specific examples of misleading claims
-- Focus on empowering participants to be skeptical buyers
-- Create "vendor bingo" cards with common BS phrases
+**Tag-team approach maximizes credibility:**
+- Brad shares vendor horror stories
+- Eric explains WHY technically it was doomed
+- Participants see both business and technical angles
+- Eric's presence prevents vendor gaslighting later
+- Make it fun but technically rigorous

@@ -1,29 +1,58 @@
-# Technical Architecture Reality
+# The Technical Reality
 
-**Duration:** 90 minutes
+**Duration:** 90 minutes  
+**Led by Eric with Brad providing business context**
 
 ## Key Objectives
-- Understand actual infrastructure requirements
-- Learn integration challenges nobody talks about
-- Assess data readiness honestly
-- Plan for scale from day one
+- Understand actual infrastructure requirements with Eric's expertise
+- Learn integration challenges from someone who's built them
+- Assess data readiness with technical precision
+- Plan for scale based on Eric's experience
+
+## Session Structure
+
+### Part 1: Eric's Technical Truth Bombs (30 min)
+**Eric shares hard-won technical wisdom**
+- Why "cloud-native" doesn't mean "easy"
+- Real infrastructure costs at scale
+- Data pipeline nightmares and solutions
+- Security requirements that kill budgets
+- Performance bottlenecks vendors hide
+
+### Part 2: Architecture Deep Dive (30 min)
+**Eric leads hands-on architecture session**
+- Participants sketch current architecture
+- Eric identifies pain points and risks
+- Common patterns: microservices vs monoliths for AI
+- API gateway strategies that work
+- Brad keeps it grounded in business value
+
+### Part 3: Technical Planning Workshop (30 min)
+**Build your technical roadmap with Eric**
+- Data readiness assessment (Eric's framework)
+- Integration complexity scoring
+- Technical debt evaluation
+- Realistic timeline building
+- 1:1 architecture reviews with Eric
 
 ## What Participants Will Walk Away With
-- Technical requirements checklist
-- Integration complexity assessment
-- Data quality audit framework
-- Architecture decision matrix
+- Eric's battle-tested technical checklist
+- Architecture patterns that actually scale
+- Data quality assessment framework
+- Technical complexity calculator
+- Eric's contact for follow-up questions
 
 ## Materials Needed
-- System architecture diagrams
-- Integration pattern examples
-- Data quality assessment tools
-- Cost estimation worksheets
-- Technical debt calculator
+- Eric's architecture pattern library
+- Real system diagrams from his implementations
+- Data pipeline templates
+- Infrastructure cost calculators
+- Security requirement checklists
 
 ## Facilitator Notes
-- Bring in actual architects/engineers as co-facilitators
-- Show real architecture diagrams, not simplified versions
-- Discuss legacy system challenges openly
-- Include security and compliance from start
-- Use war stories to illustrate common failures
+**Eric is the star - let his expertise shine:**
+- Eric opens with his biggest technical disaster story
+- Show his actual architecture diagrams
+- Let him get as technical as the group wants
+- Brad ensures business relevance
+- Position Eric as their technical advisor going forward
