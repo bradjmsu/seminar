@@ -25,6 +25,7 @@ While 78% of organizations use AI in marketing, only 26% generate tangible value
 ## Quick Links
 
 - [Full Agenda](agenda.md)
+- [Learning Flow & Structure](seminar-flow.md)
 - [Day 1: Foundations & ROI](day1/)
 - [Day 2: Advanced Applications](day2/)
 - [Resources & Tools](resources/)
